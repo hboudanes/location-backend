@@ -1,0 +1,26 @@
+[
+    {
+        "idpro":0,
+        "titre":"Appartement 100 m2 3eme étage",
+        "prix":20,
+        "ville":"Appartement , Safi"
+    },
+    {
+        "idpro":1,
+        "titre":"Appartement 100 m2 3eme étage",
+        "prix":20,
+        "ville":"Appartement , Safi"
+    },
+    {
+        "idpro":3,
+        "titre":"Appartement 100 m2 3eme étage",
+        "prix":20,
+        "ville":"Appartement , Safi"
+    },
+    {
+        "idpro":4,
+        "titre":"villa 120 m2 4 champ",
+        "prix":50,
+        "ville":"villa , casa"
+    }
+]
